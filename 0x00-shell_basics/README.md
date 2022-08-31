@@ -9,3 +9,4 @@ Shell basics script
 8-firstdelete - deletes a file from a dir
 9-firstdirdeletion - deletes a dir
 10-back - moves to the previous dir
+11-lists - long list for different dir 
