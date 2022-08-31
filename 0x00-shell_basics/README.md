@@ -4,3 +4,4 @@ Shell basics script
 3-listfiles - script to list in long format
 4-listmorefiles - script to display hidden files
 5-listfilesdigitonly - displays user and group ids numerically
+6-firstdirectory - creates a directory in the /tmp/ dir
