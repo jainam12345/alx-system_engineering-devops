@@ -14,4 +14,7 @@ Shell basics script
 13-symbolic_link - link to create symbolic link
 14-copy_html - script to copy only htm files and are of latest version
 100-lets_move - script to move all file beginning with an uppercase
+101-clean_emacs - script to remove files ending with ~
+102-tree - script to create dir tree
+
 
