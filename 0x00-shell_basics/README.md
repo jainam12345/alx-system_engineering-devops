@@ -17,5 +17,6 @@ Shell basics script
 101-clean_emacs - script to remove files ending with ~
 102-tree - script to create dir tree
 103-commas - script to separate files and dirs using commas
+school.mgc - Script to find files of SCHOOL type
 
 
