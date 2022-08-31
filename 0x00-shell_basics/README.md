@@ -7,3 +7,4 @@ Shell basics script
 6-firstdirectory - creates a directory in the /tmp/ dir
 7-movethatfile - moves a file to another dir
 8-firstdelete - deletes a file from a dir
+9-firstdirdeletion - deletes a dir
