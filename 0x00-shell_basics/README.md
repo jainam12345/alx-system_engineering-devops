@@ -11,3 +11,4 @@ Shell basics script
 10-back - moves to the previous dir
 11-lists - long list for different dir
 12-file_type - script to read file type
+13-symbolic_link - link to create symbolic link
