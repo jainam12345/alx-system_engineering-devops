@@ -6,3 +6,4 @@ Shell basics script
 5-listfilesdigitonly - displays user and group ids numerically
 6-firstdirectory - creates a directory in the /tmp/ dir
 7-movethatfile - moves a file to another dir
+8-firstdelete - deletes a file from a dir
