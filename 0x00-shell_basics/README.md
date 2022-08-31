@@ -13,4 +13,5 @@ Shell basics script
 12-file_type - script to read file type
 13-symbolic_link - link to create symbolic link
 14-copy_html - script to copy only htm files and are of latest version
+100-lets_move - script to move all file beginning with an uppercase
 
