@@ -9,3 +9,4 @@ Shell permissions tasks
 7-everybody - Script to add a particular permission to all
 8-James_Bond - Script to change permissions using numbers 7, 4...
 9-John_Doe - Script to change ownership to a particular format
+10-mirror_permissions - Script to copy file permissions
