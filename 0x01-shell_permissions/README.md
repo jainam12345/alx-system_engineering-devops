@@ -7,3 +7,4 @@ Shell permissions tasks
 5-execute - Script to change permission of owner
 6-multiple_permissions - Script to change permissions at one go
 7-everybody - Script to add a particular permission to all
+8-James_Bond - Script to change permissions using numbers 7, 4...
