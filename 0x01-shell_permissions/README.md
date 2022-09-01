@@ -10,3 +10,4 @@ Shell permissions tasks
 8-James_Bond - Script to change permissions using numbers 7, 4...
 9-John_Doe - Script to change ownership to a particular format
 10-mirror_permissions - Script to copy file permissions
+11-directories_permissions - Script to change permissions of all sub dirs
