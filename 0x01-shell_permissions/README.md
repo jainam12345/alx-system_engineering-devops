@@ -11,3 +11,4 @@ Shell permissions tasks
 9-John_Doe - Script to change ownership to a particular format
 10-mirror_permissions - Script to copy file permissions
 11-directories_permissions - Script to change permissions of all sub dirs
+12-directory_permissions - Script to make dir and change its permission at the same time using mkdir -m
