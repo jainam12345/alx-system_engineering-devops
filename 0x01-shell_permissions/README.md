@@ -14,3 +14,5 @@ Shell permissions tasks
 12-directory_permissions - Script to make dir and change its permission at the same time using mkdir -m
 school - Script to change group owner
 100-change_owner_and_group - Script to change the user and group owner at the same time
+101-symbolic_link_permissions - Change user and group oownership of symbolic link
+
