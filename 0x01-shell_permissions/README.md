@@ -4,3 +4,4 @@ Shell permissions tasks
 2-groups - Script to display groups a user is in
 3-new_owner - Script to change owner of a file
 4-empty - Script to create empty file called hello
+5-execute - Script to change permission of owner
