@@ -8,5 +8,5 @@ Redirection scripts
 6-third_line - Script to read third line
 7-file - Script to create file
 8-cwd_state - Script to direct content
-9-duplicate_last_line
- - Script to duplicate line
+9-duplicate_last_line - Script to duplicate line
+10-no_more_js - Script to del file from dir and sub-dirs
