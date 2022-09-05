@@ -7,3 +7,4 @@ Redirection scripts
 5-firstlines - Script to read first 10 lines
 6-third_line - Script to read third line
 7-file - Script to create file
+8-cwd_state - Script to direct content
