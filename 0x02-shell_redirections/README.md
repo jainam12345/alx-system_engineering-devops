@@ -6,3 +6,4 @@ Redirection scripts
 4-lastlines - Script to get last 10 lines
 5-firstlines - Script to read first 10 lines
 6-third_line - Script to read third line
+7-file - Script to create file
