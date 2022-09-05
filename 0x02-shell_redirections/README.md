@@ -18,3 +18,4 @@ Redirection scripts
 16-whatsnext - Script to display lines after match word
 17-hidethisword - Script to display all lines that do not contain the word bin
 18-letteronly - Script to get lines starting with an alphabet
+19-AZ - Script to replace characters using tr
