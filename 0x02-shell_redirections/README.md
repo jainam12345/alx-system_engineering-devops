@@ -14,3 +14,4 @@ Redirection scripts
 12-newest_files - Script to get the latest files
 13-unique - Script to get uniq values
 14-findthatword - Script that uses grep
+15-countthatword - Script that counts the number of time bin appears
