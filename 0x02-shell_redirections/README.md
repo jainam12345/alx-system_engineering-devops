@@ -20,3 +20,4 @@ Redirection scripts
 18-letteronly - Script to get lines starting with an alphabet
 19-AZ - Script to replace characters using tr
 20-hiago - Script to delet characters using tr -d
+21-reverse - Script to reverse string
