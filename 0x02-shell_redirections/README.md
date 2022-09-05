@@ -16,3 +16,4 @@ Redirection scripts
 14-findthatword - Script that uses grep
 15-countthatword - Script that counts the number of time bin appears
 16-whatsnext - Script to display lines after match word
+17-hidethisword - Script to display all lines that do not contain the word bin
