@@ -13,3 +13,4 @@ Redirection scripts
 11-directories - Script to count dirs and sub dirs
 12-newest_files - Script to get the latest files
 13-unique - Script to get uniq values
+14-findthatword - Script that uses grep
