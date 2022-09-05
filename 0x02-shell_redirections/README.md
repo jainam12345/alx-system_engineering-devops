@@ -15,3 +15,4 @@ Redirection scripts
 13-unique - Script to get uniq values
 14-findthatword - Script that uses grep
 15-countthatword - Script that counts the number of time bin appears
+16-whatsnext - Script to display lines after match word
