@@ -24,3 +24,4 @@ Redirection scripts
 22-users_and_homes - Script to get and sort by columns
 100-empty_casks - Script to find empty files and dirs
 101-gifs - Scripts for gifs
+102-Acrostic - Script for arcostic
