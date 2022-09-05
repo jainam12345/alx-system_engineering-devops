@@ -21,3 +21,4 @@ Redirection scripts
 19-AZ - Script to replace characters using tr
 20-hiago - Script to delet characters using tr -d
 21-reverse - Script to reverse string
+22-users_and_homes - Script to get and sort by columns
