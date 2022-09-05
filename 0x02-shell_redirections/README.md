@@ -4,3 +4,4 @@ Redirection scripts
 2-hellofile - Script to use cat
 3-twofiles - Script to cat 2 files
 4-lastlines - Script to get last 10 lines
+5-firstlines - Script to read first 10 lines
