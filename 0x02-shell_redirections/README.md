@@ -25,3 +25,4 @@ Redirection scripts
 100-empty_casks - Script to find empty files and dirs
 101-gifs - Scripts for gifs
 102-Acrostic - Script for arcostic
+103-the_biggest_fan - Script for biggest fan
