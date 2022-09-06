@@ -11,3 +11,4 @@ Shell variables, expnasions and aliases
 9-divide_and_rule - Script ot divide
 10-love_exponent_breath - Script that uses power calc
 11-binary_to_decimal - Script to convert base
+12-combinations - Combining letters a-o and p-z 
