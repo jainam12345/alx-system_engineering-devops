@@ -9,3 +9,4 @@ Shell variables, expnasions and aliases
 7-create_global_variable - Script to create global variable
 8-true_knowledge - Script to perfrom addition with variable stored in env
 9-divide_and_rule - Script ot divide
+10-love_exponent_breath - Script that uses power calc
