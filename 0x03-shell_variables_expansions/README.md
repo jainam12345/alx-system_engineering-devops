@@ -16,3 +16,4 @@ Shell variables, expnasions and aliases
 100-decimal_to_hexadecimal - Decimal to hexa
 101-rot13 - Script to encode rot13
 102-odd - Script to print odd files
+103-water_and_stir - Script to add numbers in 2 bases
