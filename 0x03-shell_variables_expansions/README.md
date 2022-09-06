@@ -14,3 +14,4 @@ Shell variables, expnasions and aliases
 12-combinations - Combining letters a-o and p-z
 13-print_float - Script to round of to 2dp
 100-decimal_to_hexadecimal - Decimal to hexa
+101-rot13 - Script to encode rot13
