@@ -7,4 +7,4 @@ Shell variables, expnasions and aliases
 5-local_variables - Script to display all variable, local and env as well as functions
 6-create_local_variable - Script to create a local variable
 7-create_global_variable - Script to create global variable
-
+8-true_knowledge - Script to perfrom addition with variable stored in env
