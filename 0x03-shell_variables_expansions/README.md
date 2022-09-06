@@ -15,3 +15,4 @@ Shell variables, expnasions and aliases
 13-print_float - Script to round of to 2dp
 100-decimal_to_hexadecimal - Decimal to hexa
 101-rot13 - Script to encode rot13
+102-odd - Script to print odd files
