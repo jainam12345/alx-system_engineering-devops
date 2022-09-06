@@ -8,3 +8,4 @@ Shell variables, expnasions and aliases
 6-create_local_variable - Script to create a local variable
 7-create_global_variable - Script to create global variable
 8-true_knowledge - Script to perfrom addition with variable stored in env
+9-divide_and_rule - Script ot divide
