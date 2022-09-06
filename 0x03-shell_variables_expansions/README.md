@@ -10,3 +10,4 @@ Shell variables, expnasions and aliases
 8-true_knowledge - Script to perfrom addition with variable stored in env
 9-divide_and_rule - Script ot divide
 10-love_exponent_breath - Script that uses power calc
+11-binary_to_decimal - Script to convert base
