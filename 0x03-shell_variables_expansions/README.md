@@ -3,3 +3,4 @@ Shell variables, expnasions and aliases
 1-hello_you - Script to display hello currrent user
 2-path - Script to append to path variable
 3-paths - Script to count dirs in the PATH var
+4-global_variables - Script to print env variables
