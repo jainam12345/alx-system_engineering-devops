@@ -13,3 +13,4 @@ Shell variables, expnasions and aliases
 11-binary_to_decimal - Script to convert base
 12-combinations - Combining letters a-o and p-z
 13-print_float - Script to round of to 2dp
+100-decimal_to_hexadecimal - Decimal to hexa
